@@ -1,6 +1,6 @@
 # Sales-Insights-Profit-Analysis-Automation-Project
 
-1. Introduction:  
+1. Introduction:   
 -->This project aims to unlock hidden sales insights, automate data gathering, and develop an automated dashboard for up-to-date sales insights and profit analysis. 
 -->The objectives include improving decision-making, reducing manual effort, and supporting data-driven decision-making. 
 -->The project will utilize SQL for data analysis, Tableau Prep for data cleaning, and Tableau Desktop for dashboard development.
