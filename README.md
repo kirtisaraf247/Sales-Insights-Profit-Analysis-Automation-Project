@@ -24,10 +24,10 @@ D. **Deliverables**:  The main deliverables of this project are-
 3. Sales Analysts stop data gathering manually in order to save 20% of their business time & reinvest it value added activity
    
 E. **Tech Stack Used**: The tech stack used in the project includes the following technologies:
-1. SQL: SQL is used to gather and analyze the necessary sales data.
-2. Tableau Prep: Tableau Prep is utilized to clean the data effectively.
-3. Tableau Desktop: Tableau Desktop is used to develop an automated dashboard that provides the latest sales insights and profit analysis.
-4. Tableau Public: Tableau Public is used to publish the dashboard, making it visible to everyone.
+1. **SQL**: SQL is used to gather and analyze the necessary sales data.
+2. **Tableau Prep**: Tableau Prep is utilized to clean the data effectively.
+3. **Tableau Desktop**: Tableau Desktop is used to develop an automated dashboard that provides the latest sales insights and profit analysis.
+4. **Tableau Public**: Tableau Public is used to publish the dashboard, making it visible to everyone.
    
 F. **OS Used**:  Windows 10
  
